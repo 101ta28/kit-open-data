@@ -1,0 +1,22 @@
+{
+  "regular_term": [
+    {
+      "meal": "lunch",
+      "opening_time": "11:00",
+      "closing_time": "15:00"
+    },
+    {
+      "meal": "dinner",
+      "opening_time": "16:30",
+      "closing_time": "20:00"
+    }
+  ],
+  "vacation_term": [
+    {
+      "meal": "lunch",
+      "opening_time": "11:00",
+      "closing_time": "13:30"
+    }
+  ],
+  "closed_days": ["Saturday", "Sunday", "Public Holidays"]
+}

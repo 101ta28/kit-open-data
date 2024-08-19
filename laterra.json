@@ -1,0 +1,33 @@
+{
+  "regular_term": [
+    {
+      "meal": "breakfast",
+      "opening_time": "08:00",
+      "closing_time": "10:00"
+    },
+    {
+      "meal": "lunch",
+      "opening_time": "10:00",
+      "closing_time": "15:00"
+    },
+    {
+      "meal": "dinner",
+      "opening_time": "16:00",
+      "closing_time": "19:00"
+    }
+  ],
+  "vacation_term": [
+    {
+      "meal": "lunch",
+      "opening_time": "10:00",
+      "closing_time": "14:00"
+    }
+  ],
+  "saturday": {
+    "lunch": {
+      "opening_time": "10:00",
+      "closing_time": "13:00"
+    }
+  },
+  "closed_days": ["Sunday", "Public Holidays"]
+}

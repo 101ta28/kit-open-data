@@ -1,0 +1,10 @@
+{
+  "regular_term": [
+    {
+      "meal": "lunch",
+      "opening_time": "10:00",
+      "closing_time": "15:00"
+    }
+  ],
+  "closed_days": ["Saturday", "Sunday", "Public Holidays"]
+}

@@ -1,0 +1,23 @@
+{
+  "regular_term": {
+    "weekdays": {
+      "opening_time": "09:00",
+      "closing_time": "17:30"
+    },
+    "saturday": {
+      "opening_time": "09:00",
+      "closing_time": "13:00"
+    }
+  },
+  "vacation_term": {
+    "weekdays": {
+      "opening_time": "09:00",
+      "closing_time": "17:30"
+    },
+    "saturday": {
+      "opening_time": "09:00",
+      "closing_time": "13:00"
+    }
+  },
+  "closed_days": ["Sunday", "Public Holidays"]
+}

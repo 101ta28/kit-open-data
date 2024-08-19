@@ -1,0 +1,13 @@
+{
+  "operating_hours": {
+    "weekdays": {
+      "opening_time": "08:30",
+      "closing_time": "17:00"
+    },
+    "saturday": {
+      "opening_time": "08:30",
+      "closing_time": "13:00"
+    }
+  },
+  "closed_days": ["Sunday", "Public Holidays"]
+}
